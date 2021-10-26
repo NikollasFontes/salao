@@ -1,0 +1,37 @@
+C:\Users\tcavalcante\source\repos\TechBeauty\TechBeauty.Csl\bin\Debug\net5.0\TechBeauty.Csl.exe
+C:\Users\tcavalcante\source\repos\TechBeauty\TechBeauty.Csl\bin\Debug\net5.0\TechBeauty.Csl.deps.json
+C:\Users\tcavalcante\source\repos\TechBeauty\TechBeauty.Csl\bin\Debug\net5.0\TechBeauty.Csl.runtimeconfig.json
+C:\Users\tcavalcante\source\repos\TechBeauty\TechBeauty.Csl\bin\Debug\net5.0\TechBeauty.Csl.runtimeconfig.dev.json
+C:\Users\tcavalcante\source\repos\TechBeauty\TechBeauty.Csl\bin\Debug\net5.0\TechBeauty.Csl.dll
+C:\Users\tcavalcante\source\repos\TechBeauty\TechBeauty.Csl\bin\Debug\net5.0\ref\TechBeauty.Csl.dll
+C:\Users\tcavalcante\source\repos\TechBeauty\TechBeauty.Csl\bin\Debug\net5.0\TechBeauty.Csl.pdb
+C:\Users\tcavalcante\source\repos\TechBeauty\TechBeauty.Csl\obj\Debug\net5.0\TechBeauty.Csl.csproj.AssemblyReference.cache
+C:\Users\tcavalcante\source\repos\TechBeauty\TechBeauty.Csl\obj\Debug\net5.0\TechBeauty.Csl.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tcavalcante\source\repos\TechBeauty\TechBeauty.Csl\obj\Debug\net5.0\TechBeauty.Csl.AssemblyInfoInputs.cache
+C:\Users\tcavalcante\source\repos\TechBeauty\TechBeauty.Csl\obj\Debug\net5.0\TechBeauty.Csl.AssemblyInfo.cs
+C:\Users\tcavalcante\source\repos\TechBeauty\TechBeauty.Csl\obj\Debug\net5.0\TechBeauty.Csl.csproj.CoreCompileInputs.cache
+C:\Users\tcavalcante\source\repos\TechBeauty\TechBeauty.Csl\obj\Debug\net5.0\TechBeauty.Csl.dll
+C:\Users\tcavalcante\source\repos\TechBeauty\TechBeauty.Csl\obj\Debug\net5.0\ref\TechBeauty.Csl.dll
+C:\Users\tcavalcante\source\repos\TechBeauty\TechBeauty.Csl\obj\Debug\net5.0\TechBeauty.Csl.pdb
+C:\Users\tcavalcante\source\repos\TechBeauty\TechBeauty.Csl\obj\Debug\net5.0\TechBeauty.Csl.genruntimeconfig.cache
+C:\Users\tcavalcante\source\repos\TechBeauty\TechBeauty.Csl\bin\Debug\net5.0\TechBeauty.Dominio.dll
+C:\Users\tcavalcante\source\repos\TechBeauty\TechBeauty.Csl\bin\Debug\net5.0\TechBeauty.Dominio.pdb
+C:\Users\tcavalcante\source\repos\TechBeauty\TechBeauty.Csl\obj\Debug\net5.0\TechBeauty.Csl.csproj.CopyComplete
+C:\Users\Nikollas Delfino\Source\Repos\Mirantee\TechBeauty.Csl\bin\Debug\net5.0\TechBeauty.Csl.exe
+C:\Users\Nikollas Delfino\Source\Repos\Mirantee\TechBeauty.Csl\bin\Debug\net5.0\TechBeauty.Csl.deps.json
+C:\Users\Nikollas Delfino\Source\Repos\Mirantee\TechBeauty.Csl\bin\Debug\net5.0\TechBeauty.Csl.runtimeconfig.json
+C:\Users\Nikollas Delfino\Source\Repos\Mirantee\TechBeauty.Csl\bin\Debug\net5.0\TechBeauty.Csl.runtimeconfig.dev.json
+C:\Users\Nikollas Delfino\Source\Repos\Mirantee\TechBeauty.Csl\bin\Debug\net5.0\TechBeauty.Csl.dll
+C:\Users\Nikollas Delfino\Source\Repos\Mirantee\TechBeauty.Csl\bin\Debug\net5.0\ref\TechBeauty.Csl.dll
+C:\Users\Nikollas Delfino\Source\Repos\Mirantee\TechBeauty.Csl\bin\Debug\net5.0\TechBeauty.Csl.pdb
+C:\Users\Nikollas Delfino\Source\Repos\Mirantee\TechBeauty.Csl\bin\Debug\net5.0\TechBeauty.Dominio.dll
+C:\Users\Nikollas Delfino\Source\Repos\Mirantee\TechBeauty.Csl\bin\Debug\net5.0\TechBeauty.Dominio.pdb
+C:\Users\Nikollas Delfino\Source\Repos\Mirantee\TechBeauty.Csl\obj\Debug\net5.0\TechBeauty.Csl.csproj.AssemblyReference.cache
+C:\Users\Nikollas Delfino\Source\Repos\Mirantee\TechBeauty.Csl\obj\Debug\net5.0\TechBeauty.Csl.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nikollas Delfino\Source\Repos\Mirantee\TechBeauty.Csl\obj\Debug\net5.0\TechBeauty.Csl.AssemblyInfoInputs.cache
+C:\Users\Nikollas Delfino\Source\Repos\Mirantee\TechBeauty.Csl\obj\Debug\net5.0\TechBeauty.Csl.AssemblyInfo.cs
+C:\Users\Nikollas Delfino\Source\Repos\Mirantee\TechBeauty.Csl\obj\Debug\net5.0\TechBeauty.Csl.csproj.CoreCompileInputs.cache
+C:\Users\Nikollas Delfino\Source\Repos\Mirantee\TechBeauty.Csl\obj\Debug\net5.0\TechBeauty.Csl.dll
+C:\Users\Nikollas Delfino\Source\Repos\Mirantee\TechBeauty.Csl\obj\Debug\net5.0\ref\TechBeauty.Csl.dll
+C:\Users\Nikollas Delfino\Source\Repos\Mirantee\TechBeauty.Csl\obj\Debug\net5.0\TechBeauty.Csl.pdb
+C:\Users\Nikollas Delfino\Source\Repos\Mirantee\TechBeauty.Csl\obj\Debug\net5.0\TechBeauty.Csl.genruntimeconfig.cache
